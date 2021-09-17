@@ -1,3 +1,5 @@
+#program to find the minimum element and maximum element of san array
+
 from array import *
 
 arr = array('i',[])
