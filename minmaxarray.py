@@ -13,7 +13,6 @@ for i in range(n):
 
 min = max = arr[0]
 
-
 for i in range(n):
     if(arr[i] > max):
         max = arr[i]

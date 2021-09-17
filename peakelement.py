@@ -11,6 +11,7 @@ for i in range(n):                          #array initialization
 
 #finding peak element::
 
+
 for i in range(n):
     if i == 0:
         if arr[0] > arr[1]:
