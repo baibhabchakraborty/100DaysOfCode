@@ -1,6 +1,6 @@
 #program to find sub array that add up to a given sum within an array
 
-#needs revision
+#needs revision - https://www.youtube.com/watch?v=Ofl4KgFhLsM
 
 from array import *
 
