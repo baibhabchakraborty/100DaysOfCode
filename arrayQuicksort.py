@@ -1,5 +1,7 @@
-#Program running quicksort
-#not getting output
+"""
+Program running quicksort
+not getting output
+"""
 
 from array import *
 
