@@ -19,7 +19,7 @@ class trianglestar
         {
            for(int j = 1 ; j <= i; j++)
            {
-               System.out.print("*");
+               System.out.print(" * ");
            } 
            System.out.print("\n");
         }
@@ -29,7 +29,7 @@ class trianglestar
         {
             for(int l = 1 ; l <= k ; l++)
             {
-                System.out.print("*");
+                System.out.print(" * ");
             }
             System.out.print("\n");
         }
